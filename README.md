@@ -1,15 +1,14 @@
 ## Olá! Eu sou o Ygor
 
 
-- 💻 Desenvolvedor Fullstack com habilidades em Laravel, MySQL, HTML, CSS, JavaScript e Git. Apaixonado por criar soluções eficientes e modernas, sempre focado nas melhores práticas do mercado.
+- 💻 Atualmente, estou focando meus estudos na linguagem Java. Além disso, possuo conhecimentos em HTML, CSS, JavaScript, MySQL e Git.
   <div style="display: inline_block">
  ![Ygor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygorportes&show_icons=true&theme=transparent)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ygorportes&hide_progress=true&theme=transparent)
  </div> 
 
 <div style="display: inline_block">
-  <img align="center" alt="PHP" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="LARAVEL" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="MYSQL" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="MYSQL" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">

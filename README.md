@@ -1,28 +1,52 @@
-## Olá! Eu sou o Ygor
+<h2 align="left">Olá, meu nome é Ygor Portes</h2>
 
+###
 
-- 💻 Atualmente, estou focando meus estudos na linguagem Java. Além disso, possuo conhecimentos em HTML, CSS, JavaScript, PHP, MySQL e Git.
-  <div style="display: inline_block">
- ![Ygor's GitHub stats](https://github-readme-stats.vercel.app/api?username=ygorportes&show_icons=true&theme=transparent)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ygorportes&hide_progress=true&theme=transparent)
- </div> 
+<h4 align="left">Desenvolvedor Beck-End</h4>
 
-<div style="display: inline_block">
-  <img align="center" alt="JAVA" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="PHP" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="MYSQL" height="35" width="45" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+###
+
+<p align="left">- 📍 Canoas, Brasil<br>- 📚 Cursando Análise e Desenvolvimento de Sistemas e paralelamente cursos extracurriculares<br> - 💻 Atualmente estou aprimorando minhas habilidades em Java com Spring Boot</p>
+
+###
+
+<h2 align="left">Tecnologias</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
 </div>
 
- ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/ygor-portes-6b1123251" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/ygor.portes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ysp.portes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ygorportes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ygorportes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ygorportes&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
+###
 
+<h2 align="left">Contato</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ygorportes" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:ygorsportes@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###

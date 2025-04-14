@@ -17,13 +17,13 @@
 
 <h3 align="left">Sobre 🧑🏻‍💻 BR</h3>
 
-<p align="left">Olá! Me chamo Ygor, e sou um desenvolvedor backend que gosta de construir APIs REST utilizando Java/Spring Boot e trabalhar com bancos de dados SQL (MySQL) e NoSQL (MongoDB). A maior parte do que aprendi até agora veio de projetos pessoais, desafios e muita prática.<br><br>Atualmente, trabalho com suporte técnico na área de Transferência Eletrônica de Fundos (TEF), o que me ensinou muito sobre como resolver problemas rapidamente, trabalhar com pessoas e entregas dentro dos prazos.</p>
+<p align="left">Olá! Me chamo Ygor, e sou um desenvolvedor backend que está cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na ULBRA. Curto construir APIs REST utilizando Java/Spring Boot e trabalhar com bancos de dados SQL (MySQL) e NoSQL (MongoDB). A maior parte do que aprendi até agora veio de projetos pessoais, desafios e muita prática.<br><br>Atualmente, trabalho com suporte técnico na área de Transferência Eletrônica de Fundos (TEF), o que me ensinou muito sobre como resolver problemas rapidamente, trabalhar com pessoas e entregas dentro dos prazos.</p>
 
 ---
 
 <h3 align="left">About me 🧑🏻‍💻 US</h3>
 
-<p align="left">Hey! My name is Ygor, and I'm a backend developer who enjoys building REST APIs using Java/Spring Bootand working with SQL (MySQL) and NoSQL (MongoDB) databases. Most of what I’ve learned so far came from personal projects, challenges, and a lot of hands-on practice.<br><br>Right now, I work in tech support for Electronic Funds Transfer (TEF), which taught me a lot about solving problems quickly, working with people, and getting things done on time.</p>
+<p align="left">Hey! My name is Ygor, and I'm a backend developer currently studying the 3rd semester of Systems Analysis and Development at ULBRA. I enjoy building REST APIs using Java/Spring Bootand working with SQL (MySQL) and NoSQL (MongoDB) databases. Most of what I’ve learned so far came from personal projects, challenges, and a lot of hands-on practice.<br><br>Right now, I work in tech support for Electronic Funds Transfer (TEF), which taught me a lot about solving problems quickly, working with people, and getting things done on time.</p>
 
 ---
 

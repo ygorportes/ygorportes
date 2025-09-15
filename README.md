@@ -17,7 +17,7 @@
 
 <h3 align="left">Sobre 🧑🏻‍💻</h3>
 
-<p align="left">Olá! Me chamo Ygor, e sou um desenvolvedor fullstack que está cursando o 4º semestre de Análise e Desenvolvimento de Sistemas na ULBRA. A maior parte do que aprendi até agora veio de projetos pessoais, desafios e muita prática.<br><br>Trabalho com suporte técnico na área de Transferência Eletrônica de Fundos (TEF), o que me ensinou muito sobre como resolver problemas rapidamente, lidar com pessoas, cumprir prazos e trabalhar em equipe.<br><br>No momento, estou direcionando meus estudos para tecnologias voltadas ao frontend, embora também tenha conhecimento básico em PHP, o que me permite transitar entre as camadas do sistema quando necessário.</p>
+<p align="left">Olá! Me chamo Ygor, e sou um desenvolvedor fullstack que está cursando o 4º semestre de Análise e Desenvolvimento de Sistemas na ULBRA. A maior parte do que aprendi até agora veio de projetos pessoais, desafios e muita prática.<br><br>Trabalho com suporte técnico na área de Transferência Eletrônica de Fundos (TEF), o que me ensinou muito sobre como resolver problemas rapidamente, lidar com pessoas, cumprir prazos e trabalhar em equipe.<br>
 
 ---
 

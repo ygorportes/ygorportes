@@ -17,24 +17,28 @@
 
 <h3 align="left">Sobre 🧑🏻‍💻</h3>
 
-<p align="left">Olá! Me chamo Ygor, sou um desenvolvedor back-end e estudante de Análise e Desenvolvimento de Sistemas. Meu foco tem sido no desenvolvimento prático de APIs REST utilizando o ecossistema Java/Spring. Minha jornada na área tem sido marcada pela construção contínua de projetos pessoais, o que está me permitindo aprender a fundo as ferramentas e os conceitos por trás de um software escalável.<br><br>Minha experiência atual com suporte técnico em Transferência Eletrônica de Fundos (TEF) me deu uma visão prática sobre sistemas críticos e a importância da estabilidade. Aprendi na prática a diagnosticar a causa raiz de problemas, colaborar efetivamente em equipe e garantir a qualidade das entregas.<br>
+<p align="left">Olá! Me chamo Ygor, sou um desenvolvedor back-end e estudante de Análise e Desenvolvimento de Sistemas. Meu foco tem sido no desenvolvimento de aplicações web utilizando o ecossistema PHP/Laravel. Minha jornada na área tem sido marcada pela construção contínua de projetos pessoais, o que está me permitindo aprender a fundo as ferramentas e os conceitos por trás de um software escalável.<br><br>Minha experiência atual com suporte técnico em Transferência Eletrônica de Fundos (TEF) me deu uma visão prática sobre sistemas críticos e a importância da estabilidade. Aprendi na prática a diagnosticar a causa raiz de problemas, colaborar efetivamente em equipe e garantir a qualidade das entregas.<br>
 
 ---
 
 <h3 align="left">Tecnologias </h3>
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgres logo"  />
   <img width="12" />

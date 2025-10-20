@@ -17,7 +17,7 @@
 
 <h3 align="left">Sobre 🧑🏻‍💻</h3>
 
-<p align="left">Olá! Me chamo Ygor, sou um desenvolvedor back-end e estudante de Análise e Desenvolvimento de Sistemas. Meu foco tem sido no desenvolvimento de aplicações web utilizando o ecossistema PHP/Laravel. Minha jornada na área tem sido marcada pela construção contínua de projetos pessoais, o que está me permitindo aprender a fundo as ferramentas e os conceitos por trás de um software escalável.<br><br>Minha experiência atual com suporte técnico em Transferência Eletrônica de Fundos (TEF) me deu uma visão prática sobre sistemas críticos e a importância da estabilidade. Aprendi na prática a diagnosticar a causa raiz de problemas, colaborar efetivamente em equipe e garantir a qualidade das entregas.<br>
+<p align="left">Olá! Me chamo Ygor, sou um desenvolvedor web e estudante de Análise e Desenvolvimento de Sistemas. Meu foco tem sido no desenvolvimento de aplicações web utilizando o ecossistema PHP/Laravel. Minha jornada na área tem sido marcada pela construção contínua de projetos pessoais, o que está me permitindo aprender a fundo as ferramentas e os conceitos por trás de um software escalável.<br><br>Minha experiência atual com suporte técnico em Transferência Eletrônica de Fundos (TEF) me deu uma visão prática sobre sistemas críticos e a importância da estabilidade. Aprendi na prática a diagnosticar a causa raiz de problemas, colaborar efetivamente em equipe e garantir a qualidade das entregas.<br>
 
 ---
 

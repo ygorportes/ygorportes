@@ -17,7 +17,7 @@
 
 <h3 align="left">Sobre 🧑🏻‍💻</h3>
 
-<p align="left">Olá! Me chamo Ygor, sou um desenvolvedor web e estudante de Análise e Desenvolvimento de Sistemas. Meu foco tem sido no desenvolvimento de aplicações web utilizando o ecossistema PHP/Laravel. Minha jornada na área tem sido marcada pela construção contínua de projetos pessoais, o que está me permitindo aprender a fundo as ferramentas e os conceitos por trás de um software escalável.<br><br>Minha experiência atual com suporte técnico em Transferência Eletrônica de Fundos (TEF) me deu uma visão prática sobre sistemas críticos e a importância da estabilidade. Aprendi na prática a diagnosticar a causa raiz de problemas, colaborar efetivamente em equipe e garantir a qualidade das entregas.<br>
+<p align="left">Olá! Sou Ygor Portes, desenvolvedor e estudante de Análise e Desenvolvimento de Sistemas. Tenho me dedicado ao desenvolvimento de aplicações web, buscando compreender não apenas as ferramentas, mas também os princípios que tornam um software escalável e bem estruturado.<br><br>Minha experiência atual com suporte técnico em Transferência Eletrônica de Fundos (TEF) me deu uma visão prática sobre sistemas críticos e a importância da estabilidade. Aprendi na prática a diagnosticar a causa raiz de problemas, colaborar efetivamente em equipe e garantir a qualidade das entregas.<br>
 
 ---
 
@@ -26,13 +26,15 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -41,8 +43,6 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgres logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
